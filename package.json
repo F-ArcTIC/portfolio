@@ -11,6 +11,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
-  
+  "repository": {
+    "type": "git",
+    "url": "git+https://mehedi_sharif@bitbucket.org/themefishertemplate/swift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/themefishertemplate/swift#readme"
 }
