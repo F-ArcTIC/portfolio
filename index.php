@@ -47,7 +47,7 @@
                                 <div class="page-title home text-center">
                                     <h3>Fatima BOUGUERRA's Portfolio </h3>
                                     <br>
-                                    <h3> I am a <b> Web developper</b></h3>
+                                    <h3> <b> Holder of a master's degree in computer systems security at USTHB & web development enthusiast </b></h3>
                                     <p></p>
                                 </div>
 
