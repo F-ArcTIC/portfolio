@@ -47,7 +47,7 @@
                                 <div class="page-title home text-center">
                                     <h3> <b> Fatima BOUGUERRA's Portfolio </b> </h3>
                                     <br>
-                                    <h4> <i> Holder of a master's degree in computer systems security at USTHB & web development enthusiast</i> </h4>
+                                    <h4> <i> Holder of a master's degree in computer systems security at USTHB <br> & web development enthusiast</i> </h4>
                                     <p></p>
                                 </div>
 
