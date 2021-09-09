@@ -45,9 +45,9 @@
                         <div class="row">
                             <div class="col-xs-12 col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
                                 <div class="page-title home text-center">
-                                    <h3>Fatima BOUGUERRA's Portfolio </h3>
+                                    <h3> <b> Fatima BOUGUERRA's Portfolio </b> </h3>
                                     <br>
-                                    <h3> <b> Holder of a master's degree in computer systems security at USTHB & web development enthusiast </b></h3>
+                                    <h3>  Holder of a master's degree in computer systems security at USTHB & web development enthusiast </h3>
                                     <p></p>
                                 </div>
 
